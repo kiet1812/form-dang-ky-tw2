@@ -45,6 +45,8 @@ Thời gian tổ chức: 20h tối ngày 25/12/2026
 Lưu ý: nếu bạn cảm thấy thông tin ban tổ chức chưa đủ hấp hẫn để kêu gọi người tham gia thì bạn có thể chỉnh sửa(sửa ngắn lại hoặc tóm tắt đoạn ban tổ chức cung cấp) sau đó tự thêm vào các text mà bạn nghĩ nó có thể kêu gọi được mọi người.
 
 ## 6. API Google sheets(chatgpt cung cấp)
+Lưu ý: thời gian đăng ký phải tính theo khung giờ Việt Nam.
+
 Dự án dùng một Google Apps Script Web App làm API nhận đăng ký và ghi vào Google Sheets, không gọi trực tiếp Google Sheets REST API.
 
 - Endpoint: `https://script.google.com/macros/s/AKfycbzwdpWgRFRzVKazinX5-qhk3mqXKrc3KNB2Pk_qpMdWdgYL1pBC6GonsC3AyIqsjWuo7g/exec`
